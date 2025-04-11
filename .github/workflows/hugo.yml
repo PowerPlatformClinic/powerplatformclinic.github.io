@@ -54,7 +54,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           hugo \
-            --source src \  # Specify the src directory as the source
+            --source src \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
