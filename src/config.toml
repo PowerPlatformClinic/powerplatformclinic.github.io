@@ -16,7 +16,8 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # Custom link
 
-
+    { link = { href = "https://forms.office.com/r/GEVB103Wjs?origin=lprLink", text = "Ask us anything by filling out this form" } },
+   
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -60,7 +61,7 @@ disableKinds = ["taxonomy", "term"]
     # { whatsapp = "https://wa.me/phone-number" },
     # { x = "https://x.com/username" },
      { youtube = "https://youtube.com/@PowerPlatformClinic" },
-
+https://forms.office.com/r/GEVB103Wjs?origin=lprLink
     { linkedin = { href =  "https://www.linkedin.com/in/duncanboyne/", text = "Duncan Boyne on LinkedIn" } },
     { linkedin = { href =  "https://www.linkedin.com/in/iantweedie/", text = "Ian Tweedie on LinkedIn" } },
     { github = { href = "https://github.com/itweedie", text = "Ian Tweedie on GitHub" } },
