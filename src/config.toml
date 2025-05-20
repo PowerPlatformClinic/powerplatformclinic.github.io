@@ -16,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # Custom link
 
-    { link = { href = "https://forms.office.com/r/GEVB103Wjs?origin=lprLink", text = "Ask us anything by filling out this form" } },
+    { link = { href = "https://4kab.short.gy/PowerPlatformClinic", text = "Ask us anything by filling out this form" } },
    
     # { email = "mailto:hello@your_domain.com" },
     # { link = "https://link-to-some-website.com/" },
